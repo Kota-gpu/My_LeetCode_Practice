@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kota-gpu/My_LeetCode_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1550-three-consecutive-odds](https://github.com/Kota-gpu/My_LeetCode_Practice/tree/master/1550-three-consecutive-odds) |
 ## Divide and Conquer
 |  |
 | ------- |
