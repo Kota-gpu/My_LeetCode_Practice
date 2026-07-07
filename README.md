@@ -58,4 +58,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kota-gpu/My_LeetCode_Practice/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Kota-gpu/My_LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Kota-gpu/My_LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Kota-gpu/My_LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Kota-gpu/My_LeetCode_Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
