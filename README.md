@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kota-gpu/My_LeetCode_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kota-gpu/My_LeetCode_Practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kota-gpu/My_LeetCode_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
